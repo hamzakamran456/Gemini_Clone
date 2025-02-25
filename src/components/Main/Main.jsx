@@ -18,7 +18,7 @@ const Main = () => {
     <div className="main">
       <div className="nav">
         <p>Gemini</p>
-        <img src={assets.user_icon} alt="" />
+        <img src={assets.profile_icon} alt="" />
       </div>
       <div className="main-container">
         {!showResult ? (
